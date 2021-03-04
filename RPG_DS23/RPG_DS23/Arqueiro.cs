@@ -4,6 +4,9 @@ using System.Text;
 
 namespace RPG_DS23
 {
+    /**
+     * O arqueiro ataca a distância
+     */
     class Arqueiro
     {
         string nome;
@@ -11,5 +14,6 @@ namespace RPG_DS23
         int destreza;
         int velocidade;
         int vida;
+
     }
 }
