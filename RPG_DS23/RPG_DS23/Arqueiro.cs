@@ -10,5 +10,6 @@ namespace RPG_DS23
         int forca;
         int destreza;
         int velocidade;
+        int vida;
     }
 }
